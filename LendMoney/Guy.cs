@@ -14,7 +14,7 @@ namespace LendMoney
         /// </summary>
         public void WriteMyInfo()
         {
-            Console.WriteLine(Name + "has" + Cash + " bucks.");
+            Console.WriteLine(Name + " has " + Cash + " bucks.");
         }
 
         /// <summary>
